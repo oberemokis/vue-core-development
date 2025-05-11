@@ -1,0 +1,7 @@
+!.*.js
+!.*.yml
+**/CHANGELOG.md
+dist
+package-lock.json
+**/vite.config.ts
+**/node_modules

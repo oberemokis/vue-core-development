@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "dariofuzinato.vue-peek",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-scss",
+    "timonwong.shellcheck",
+    "vunguyentuan.vscode-css-variables",
+    "streetsidesoftware.code-spell-checker-russian",
+    "vue.volar",
+    "somewhatstationery.some-sass",
+    "vitest.explorer",
+    "folke.vscode-monorepo-workspace"
+  ]
+}
